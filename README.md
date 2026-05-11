@@ -12,18 +12,19 @@
 ---
 
 ### 🎨 Creative & Design Skills
-**Graphic & Textile Design**
-![Photoshop](https://shields.io) ![Illustrator](https://shields.io) ![InDesign](https://shields.io) ![Figma](https://shields.io)
+
+| Category | Tools |
+| :--- | :--- |
+| **Graphic & Textile Design** | Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma |
 
 ---
 
 ### 🛠 Tech Skills
 
-**Programming Languages & Web**
-![Java](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Sass](https://shields.io) ![SQL](https://shields.io)
 
-**Frameworks & Libraries**
-![Spring Boot](https://shields.io) ![React](https://shields.io) ![Laravel](https://shields.io) ![NodeJS](https://shields.io) ![Bootstrap](https://shields.io)
+| Category | technologies |
+| :--- | :--- |
+| **Programming & Web** | Java, JavaScript, HTML5, CSS3, Sass, Bootstrap, SQL |
+| **Frameworks & Libraries** | Spring Boot, React, Laravel, Node.js |
+| **Development Tools** | Git, NPM, Visual Studio Code |
 
-**Development Tools**
-![Git](https://shields.io) ![NPM](https://shields.io) ![VS Code](https://shields.io)
