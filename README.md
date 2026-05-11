@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Melania
 
-<!--
-**Melaniamat/Melaniamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 😄 **Pronouns:** she/her
+- 👀 **I’m a Junior Java Developer** focused on Backend systems and Full-Stack evolution.
+- 🎨 **My Background:** I transitioned from **Graphic and Textile Design**. This journey shaped my attention to detail and my ability to approach logical problems with a creative mindset.
+- 🌱 **I’m currently working** on mastering **React and Node.js** to build complete, modern applications.
+- 💞️ **I’m looking for** a role where I can grow technically and contribute to enterprise projects.
+- 📫 **How to reach me:** [LinkedIn](IL_TUO_LINK_QUI) | [Email](LA_TUA_MAIL_QUI)
+- ⚡ **Fun fact:** With a background in foreign languages, I see coding as the ultimate universal language.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, PHP, SQL |
+| **Backend** | Spring Boot, Laravel, Node.js |
+| **Frontend** | React, HTML5, CSS3, Bootstrap |
+| **Databases** | PostgreSQL, MySQL, Oracle |
+| **Tools** | Git, Maven, Docker, Postman |
+| **IDEs** | IntelliJ IDEA, VS Code |
+
+---
+*"Turning creative logic into functional code."*
