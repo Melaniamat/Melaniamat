@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Melania]
+# 👋 Hi, I’m Melania
 
 ### About Me
 - 😄 **Pronouns:** she/her
